@@ -17,3 +17,4 @@ As a Senior Mobile Developer with over 8+ years of experience building high-perf
 🚀 I don’t just build apps—I build stable, scalable, and user-friendly products that help clients grow. Whether you're launching an MVP or scaling an existing app, I’m here to deliver on time and on budget.
 
 Let’s build something great together!
+<img src="git-header.svg" width="500"/>
