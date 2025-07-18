@@ -8,7 +8,7 @@ As a Senior Mobile Developer with over 8+ years of experience building high-perf
 
 **Native development using Swift, Kotlin, and Java**
 
-**API integration, Firebase, push notifications, in-app purchases**
+**API integration, Firebase, Supabase, push notifications, in-app purchases**
 
 **Agile collaboration with designers, PMs, and backend teams**
 
