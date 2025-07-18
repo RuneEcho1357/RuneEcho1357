@@ -50,7 +50,7 @@ Let’s build something great together!
 
 
 
-<img src="most-used.svg.svg" width="500"/>
+<img src="most-used.svg.svg" width="500" height="200"/>
 
 
 
