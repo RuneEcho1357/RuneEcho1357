@@ -61,4 +61,4 @@ Let’s build something great together!
 
 
 
-<img src="commit.svg.svg" width="500"/>
+<img src="commit.svg" width="500"/>
