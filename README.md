@@ -50,19 +50,4 @@ Let’s build something great together!
 
 
 
-
-
-
-
-<img src="most-used.svg.svg" width="500" height="200"/>
-
-
-
-
-
-
-
-
-
-
 <img src="commit.svg" width="500"/>
