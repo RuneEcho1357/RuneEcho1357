@@ -25,7 +25,7 @@ Let’s build something great together!
 
 
 
-<img src="git-header.svg.svg" width="500"/>
+<img src="git-header.svg" width="500"/>
 
 
 
@@ -37,4 +37,4 @@ Let’s build something great together!
 
 
 
-<img src="github-stats.svg" width="500"/>
+<img src="github-stats.svg.svg" width="500"/>
