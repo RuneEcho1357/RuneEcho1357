@@ -13,12 +13,12 @@ As a Senior Mobile Developer with over 8+ years of experience building high-perf
 **💻 Tech Stack:**
 - **Frontend:**  React Native, Expo, React.js, Flutter, Dart, Next.js, Redux, HTML5, CSS3, Tailwind CSS
 - **Backend:** Node.js, Express.js, RESTful APIs, JWT
-- **Databases:** MongoDB, Firebase, SQL
+- **Databases:** MongoDB, Firebase, SQL, Supabase
 - **Languages:** JavaScript (ES6+), TypeScript, Java
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Firebase, Supabase, GCP, Netlify, Vercel
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,expo,flutter,dart,azure,vue,nextjs,redux,tailwind,nodejs,express,mongodb,firebase,js,ts,java,git,github,vscode,postman,html,tailwindcss,css&perline=10" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=react,flutter,dart,redux,swift,azure,vue,nextjs,tailwind,nodejs,express,mongodb,firebase,js,ts,java,git,github,vscode,postman,html,tailwindcss,css&perline=10" alt="My Skills"/>
   </a>
 </p>
 
