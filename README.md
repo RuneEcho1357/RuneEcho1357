@@ -23,18 +23,9 @@ As a Senior Mobile Developer with over 8+ years of experience building high-perf
 </p>
 
 
-🚀 I don’t just build apps—I build stable, scalable, and user-friendly products that help clients grow. Whether you're launching an MVP or scaling an existing app, I’m here to deliver on time and on budget.
+🚀 **I don’t just build apps—I build stable, scalable, and user-friendly products that help clients grow. Whether you're launching an MVP or scaling an existing app, I’m here to deliver on time and on budget.
 
-Let’s build something great together!
-
-
-
-
-
-
-
-
-<img src="git-header.svg" width="500"/>
+Let’s build something great together!**
 
 
 
@@ -43,11 +34,21 @@ Let’s build something great together!
 
 
 
+### 📊 My GitHub Stats & Trophies
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuneEcho1357&show_icons=true&locale=en&theme=tokyonight" alt="RuneEcho1357's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuneEcho1357&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RuneEcho1357's Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RuneEcho1357&theme=onedark&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+</p>
 
 
 
-
-<img src="github-stats.svg.svg" width="500"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100§ion=footer"/>
+</p> 
 
 
 
