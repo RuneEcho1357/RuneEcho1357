@@ -49,11 +49,3 @@ Let’s build something great together!**
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100§ion=footer"/>
 </p> 
-
-
-
-
-
-
-
-<img src="commit.svg" width="500"/>
