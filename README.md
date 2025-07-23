@@ -18,7 +18,7 @@ As a Senior Mobile Developer with over 8+ years of experience building high-perf
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Firebase, Supabase, GCP, Netlify, Vercel
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,express,mongodb,firebase,js,ts,java,git,github,vscode,postman,html,tailwindcss,css&perline=10" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=react,expo,flutter,dart,azure,vue,nextjs,redux,tailwind,nodejs,express,mongodb,firebase,js,ts,java,git,github,vscode,postman,html,tailwindcss,css&perline=10" alt="My Skills"/>
   </a>
 </p>
 
