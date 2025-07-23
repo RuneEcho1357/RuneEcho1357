@@ -23,9 +23,9 @@ As a Senior Mobile Developer with over 8+ years of experience building high-perf
 </p>
 
 
-🚀 **I don’t just build apps—I build stable, scalable, and user-friendly products that help clients grow. Whether you're launching an MVP or scaling an existing app, I’m here to deliver on time and on budget.
+🚀 ****I don’t just build apps—I build stable, scalable, and user-friendly products that help clients grow. Whether you're launching an MVP or scaling an existing app, I’m here to deliver on time and on budget.
 
-Let’s build something great together!**
+Let’s build something great together!****
 
 
 
@@ -37,8 +37,21 @@ Let’s build something great together!**
 ### 📊 My GitHub Stats & Trophies
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuneEcho1357&show_icons=true&locale=en&theme=tokyonight" alt="RuneEcho1357's GitHub stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuneEcho1357&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RuneEcho1357's Top Languages" />
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=RuneEcho1357
+            &show_icons=true
+            &locale=en
+            &theme=tokyonight
+            &include_all_commits=true"
+       alt="RuneEcho1357's GitHub stats" />
+
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=RuneEcho1357
+            &show_icons=true
+            &locale=en
+            &layout=compact
+            &theme=tokyonight"
+       alt="RuneEcho1357's Top Languages" />
 </p>
 
 
