@@ -17,21 +17,9 @@ As a Senior Mobile Developer with over 8+ years of experience building high-perf
 - **Languages:** JavaScript (ES6+), TypeScript, Java
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Firebase, Supabase, GCP, Netlify, Vercel
 <p align="center">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=RuneEcho1357
-            &show_icons=true
-            &locale=en
-            &theme=tokyonight
-            &include_all_commits=true"
-       alt="RuneEcho1357's GitHub stats" />
-
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=RuneEcho1357
-            &show_icons=true
-            &locale=en
-            &layout=compact
-            &theme=tokyonight"
-       alt="RuneEcho1357's Top Languages" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react,expo,flutter,dart,nextjs,redux,tailwind,nodejs,azure, express,mongodb,firebase,js,ts,java,git,github,vscode,postman,html,css&perline=10" alt="My Skills"/>
+  </a>
 </p>
 
 
