@@ -40,10 +40,6 @@ Let’s build something great together!**
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuneEcho1357&show_icons=true&locale=en&theme=tokyonight" alt="RuneEcho1357's GitHub stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuneEcho1357&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RuneEcho1357's Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RuneEcho1357&theme=onedark&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
-</p>
-
 
 
 <p align="center">
