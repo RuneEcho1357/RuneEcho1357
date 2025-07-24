@@ -36,10 +36,7 @@ Let’s build something great together!****
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuneEcho1357&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true" alt="RuneEcho1357's GitHub stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuneEcho1357&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RuneEcho1357's Top Languages" />
-</p>
+
 
 
 <p align="center">
