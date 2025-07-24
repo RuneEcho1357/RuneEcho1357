@@ -36,8 +36,8 @@ Let’s build something great together!****
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="git_commit.svg" width="300" height="150"/>
-  <img src="most_used.svg" width="250" height="120"/>
+  <img src="git_commit.svg" width="467" height="195"/>
+  <img src="most_used.svg" width="250" height="150"/>
 </p> 
 
 
