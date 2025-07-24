@@ -34,7 +34,7 @@ Let’s build something great together!****
 
 
 
-### 📊 My GitHub Stats & Trophies
+### 📊 GitHub Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuneEcho1357&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true" alt="RuneEcho1357's GitHub stats" />
