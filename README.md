@@ -40,6 +40,7 @@ As a Senior Mobile Developer with over 8+ years of experience building high-perf
 
 
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100§ion=footer"/>
-</p> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+</p>
