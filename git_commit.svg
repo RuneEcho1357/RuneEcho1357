@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">RuneEcho1357's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 94, Total Commits in 2025 : 446, Total PRs: 69, Total Issues: 29, Contributed to (last year): 173</desc>
+        <desc id="descId">Total Stars Earned: 94, Total Commits in 2025 : 704, Total PRs: 69, Total Issues: 29, Contributed to (last year): 173</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -100,9 +100,6 @@
     
           
         </style>
-
-        
-
         <rect
           data-testid="card-bg"
           x="0.5"
