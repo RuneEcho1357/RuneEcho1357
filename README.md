@@ -31,7 +31,6 @@ As a Senior Mobile Developer with over 8+ years of experience building high-perf
 
 
 
-
 <p align="center">
   <img src="git_commit.svg" width="467" height="195"/>
   <img src="most-used.svg.svg" width="250" height="150"/>
